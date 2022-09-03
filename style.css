@@ -1,6 +1,10 @@
 /* .page-container{
     margin: 50px 50px 50px 50px !important;
 } */
+:root {
+    --blue: rgb(43, 46, 68);;
+    --white: linen;
+  }
 
 #profile-img{
 width:720px;
@@ -17,4 +21,25 @@ table.table-bordered > thead > tr > th {
 table.table-bordered > tbody > tr > td {
     border: 3px solid darkgrey;
 }
+
+nav{
+    background-color: var(--blue);
+    height: 5rem;
+    
+}
+
+.nav-item{
+    margin: auto 40px;
+}
+
+.container{
+    margin-top: 10rem;
+}
+
+
+
+
+
+
+
 
