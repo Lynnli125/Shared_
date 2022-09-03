@@ -1,0 +1,20 @@
+/* .page-container{
+    margin: 50px 50px 50px 50px !important;
+} */
+
+#profile-img{
+width:720px;
+height: auto;
+}
+table.table-bordered {
+    border: 3px solid darkgrey;
+}
+
+table.table-bordered > thead > tr > th {
+    border: 3px solid darkgrey;
+}
+
+table.table-bordered > tbody > tr > td {
+    border: 3px solid darkgrey;
+}
+
